@@ -95,7 +95,7 @@
     "storybook": "10.0.4",
     "svg-sprite": "^2.0.4",
     "typescript": "^5.9.2",
-    "vite": "^6.3.5",
+    "vite": "^6.4.1",
     "vitest": "^3.2.0",
     "wasm-pack": "^0.13.1",
     "watcher": "^2.3.1",
