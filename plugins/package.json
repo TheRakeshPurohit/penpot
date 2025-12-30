@@ -44,7 +44,7 @@
     "@commitlint/config-conventional": "^18.6.0",
     "@eslint/eslintrc": "^2.1.1",
     "@eslint/js": "8.57.0",
-    "@nx/angular": "20.3.2",
+    "@nx/angular": "22.3.3",
     "@nx/esbuild": "20.3.2",
     "@nx/eslint": "20.3.2",
     "@nx/eslint-plugin": "20.3.2",
