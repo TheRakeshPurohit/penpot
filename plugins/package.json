@@ -71,7 +71,7 @@
     "eslint-plugin-deprecation": "^2.0.0",
     "fs-extra": "^11.2.0",
     "globals": "^15.1.0",
-    "happy-dom": "^13.6.2",
+    "happy-dom": "^20.0.11",
     "husky": "^9.0.10",
     "jsdom": "~22.1.0",
     "jsonc-eslint-parser": "^2.1.0",
