@@ -74,7 +74,7 @@
     "highlight.js": "^11.10.0",
     "js-beautify": "^1.15.4",
     "jsdom": "^27.4.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "lodash.debounce": "^4.0.8",
     "map-stream": "0.0.7",
     "marked": "^15.0.12",
