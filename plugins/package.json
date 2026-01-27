@@ -85,7 +85,7 @@
     "vite-plugin-checker": "^0.6.4",
     "vite-plugin-dts": "~2.3.0",
     "vite-plugin-static-copy": "^3.1.0",
-    "vitest": "1.6.0"
+    "vitest": "1.6.1"
   },
   "dependencies": {
     "@angular/animations": "19.1.3",
